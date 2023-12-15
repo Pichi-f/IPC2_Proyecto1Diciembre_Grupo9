@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listaReproduccion>
+    <lista nombre="Lista1" reproduccion="0">
+        <cancion nombre="I Thought About Killing You">
+            <artista>Kanye west</artista>
+            <album>Ye</album>
+            <imagen>ye.jpg</imagen>
+            <ruta>01 Kanye West - I Thought About Killing You.mp3</ruta>
+        </cancion>
+        <cancion nombre="Ghost Town">
+            <artista>Kanye west</artista>
+            <album>Ye</album>
+            <imagen>ye.jpg</imagen>
+            <ruta>01 Kanye West - I Thought About Killing You.mp3</ruta>
+        </cancion>
+        <cancion nombre="I Thought About Killing You">
+            <artista>Kanye west</artista>
+            <album>Ye</album>
+            <imagen>ye.jpg</imagen>
+            <ruta>06 Kanye West - Ghost Town.mp3</ruta>
+        </cancion>
+    </lista>
+</listaReproduccion>
