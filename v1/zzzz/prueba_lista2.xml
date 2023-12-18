@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listaReproduccion>
+	<lista nombre="Lista1" reproduccion="0">
+		<cancion nombre="Ghost Town">
+			<artista>Kanye west</artista>
+			<album>Ye</album>
+			<imagen>ye.png</imagen>
+			<ruta>06 Kanye West - Ghost Town.mp3</ruta>
+		</cancion>
+		<cancion nombre="Violent Crimes">
+			<artista>Kanye west</artista>
+			<album>Ye</album>
+			<imagen>ye.png</imagen>
+			<ruta>07 Kanye West - Violent Crimes.mp3</ruta>
+		</cancion>
+	</lista>
+	<lista nombre="Lista2" reproduccion="0">
+		<cancion nombre="Ghost Town">
+			<artista>Kanye west</artista>
+			<album>Ye</album>
+			<imagen>ye.png</imagen>
+			<ruta>01 Kanye West - I Thought About Killing You.mp3</ruta>
+		</cancion>
+		<cancion nombre="I Thought About Killing You">
+			<artista>Kanye west</artista>
+			<album>Ye</album>
+			<imagen>ye.png</imagen>
+			<ruta>01 Kanye West - I Thought About Killing You.mp3</ruta>
+		</cancion>
+	</lista>
+	<lista nombre="Lista3" reproduccion="0">
+		<cancion nombre="Adventure Of A Lifetime">
+			<artista>Coldplay</artista>
+			<album>A Head Full of Dreams</album>
+			<imagen>A Head Full of Dreams.png</imagen>
+			<ruta>05 Coldplay - Adventure Of A Lifetime.mp3</ruta>
+		</cancion>
+		<cancion nombre="Daylight">
+			<artista>Joji</artista>
+			<album>Nectar</album>
+			<imagen>Nectar.png</imagen>
+			<ruta>04 Joji - Daylight.mp3</ruta>
+		</cancion>
+	</lista>
+	<lista nombre="Lista4" reproduccion="0">
+		<cancion nombre="cobain">
+			<artista>Lil Peep</artista>
+			<album>EVERYBODY'S EVERYTHING</album>
+			<imagen>EVERYBODY'S EVERYTHING.png</imagen>
+			<ruta>17 Lil Peep - cobain.mp3</ruta>
+		</cancion>
+		<cancion nombre="Life is Beautiful">
+			<artista>Lil Peep</artista>
+			<album>Come Over When You're Sober</album>
+			<imagen>Come Over When You're Sober.png</imagen>
+			<ruta>07 Lil Peep - Life is Beautiful.mp3</ruta>
+		</cancion>
+	</lista>
+</listaReproduccion>
