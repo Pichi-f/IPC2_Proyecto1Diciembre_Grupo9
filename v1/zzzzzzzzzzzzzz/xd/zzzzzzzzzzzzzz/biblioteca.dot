@@ -1,0 +1,38 @@
+digraph G {
+	rankdir=TB size="8,5"
+	biblioteca [color=blue shape=egg]
+	Lista1 [color=green shape=egg]
+	biblioteca -> Lista1
+	"Ghost TownLista1" [label="Ghost Town" color=gray shape=egg]
+	Lista1 -> "Ghost TownLista1"
+	"Violent CrimesLista1" [label="Violent Crimes" color=gray shape=egg]
+	Lista1 -> "Violent CrimesLista1"
+	"Adventure Of A LifetimeLista1" [label="Adventure Of A Lifetime" color=gray shape=egg]
+	Lista1 -> "Adventure Of A LifetimeLista1"
+	DaylightLista1 [label=Daylight color=gray shape=egg]
+	Lista1 -> DaylightLista1
+	Lista2 [color=green shape=egg]
+	biblioteca -> Lista2
+	cobainLista2 [label=cobain color=gray shape=egg]
+	Lista2 -> cobainLista2
+	"Life is BeautifulLista2" [label="Life is Beautiful" color=gray shape=egg]
+	Lista2 -> "Life is BeautifulLista2"
+	Lista3 [color=green shape=egg]
+	biblioteca -> Lista3
+	"death bed coffee for your headLista3" [label="death bed coffee for your head" color=gray shape=egg]
+	Lista3 -> "death bed coffee for your headLista3"
+	"Hate MeLista3" [label="Hate Me" color=gray shape=egg]
+	Lista3 -> "Hate MeLista3"
+	"white teeLista3" [label="white tee" color=gray shape=egg]
+	Lista3 -> "white teeLista3"
+	Lista4 [color=green shape=egg]
+	biblioteca -> Lista4
+	"Hymn For The WeekendLista4" [label="Hymn For The Weekend" color=gray shape=egg]
+	Lista4 -> "Hymn For The WeekendLista4"
+	EwLista4 [label=Ew color=gray shape=egg]
+	Lista4 -> EwLista4
+	"777Lista4" [label=777 color=gray shape=egg]
+	Lista4 -> "777Lista4"
+	SanctuaryLista1 [label=Sanctuary color=gray shape=egg]
+	Lista1 -> SanctuaryLista1
+}
