@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <cancion nombre="Hundred Miles">
+        <artista>Yall</artista>
+        <album>Desconocido</album>
+        <imagen>Hundred-Miles-by-Yall.jpg</imagen>
+        <ruta>01 Yall - Hundred Miles.mp3</ruta>
+    </cancion>
+    <cancion nombre="I Thought About Killing You">
+        <artista>Kanye west</artista>
+        <album>Ye</album>
+        <imagen>ye.jpg</imagen>
+        <ruta>01 Kanye West - I Thought About Killing You.mp3</ruta>
+    </cancion>
+    <cancion nombre="Ghost Town">
+        <artista>Kanye west</artista>
+        <album>Ye</album>
+        <imagen>ye.jpg</imagen>
+        <ruta>06 Kanye West - Ghost Town.mp3</ruta>
+    </cancion>
+    <cancion nombre="Violent Crimes">
+        <artista>Kanye west</artista>
+        <album>Ye</album>
+        <imagen>ye.jpg</imagen>
+        <ruta>07 Kanye West - Violent Crimes.mp3</ruta>
+    </cancion>
+</biblioteca>
